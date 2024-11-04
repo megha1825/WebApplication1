@@ -1,0 +1,21 @@
+﻿@page
+@model WebApplication1.Pages.ResponseModel
+@{
+    if (TempData.ContainsKey("message"))
+    {
+        <div>
+            <h1 style="color:aqua">@TempData["message"]</h1>
+            <p>Name: @TempData["Name"]</p>
+            <p>Email: @TempData["Email"]</p>
+            <button type="button" onclick="goToLogin">Signup</button>
+
+            <script>
+                function goToLogin() {
+                    window.location.href = '/signup';
+                }
+            </script>
+
+        </div>
+    }
+    
+}

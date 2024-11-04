@@ -1,0 +1,48 @@
+﻿@page
+@model WebApplication1.Pages.loginModel
+@{
+    ViewData["Title"] = "Login page";
+    if (TempData.ContainsKey("message"))
+    {
+        <div>
+            <h1 style="color:aqua">@TempData["message"]</h1>
+            <p>Name: @TempData["Name"]</p>
+            <p>Email: @TempData["Email"]</p>
+           
+        </div>
+    }
+    
+
+
+}
+
+
+
+
+    <form method="post">
+        <div>
+            <label asp-for="Input.Name"></label>
+            <input asp-for="Input.Name" class="form-control" />
+            <span asp-validation-for="Input.Name" class="text-danger"></span>
+        </div>
+    <div>
+        <label asp-for="Input.Password"></label>
+        <input asp-for="Input.Password" class="form-control" />
+        <span asp-validation-for="Input.Password" class="text-danger"></span>
+
+    </div>
+
+    <button type="submit" asp-page-handler="send">SEND</button>
+    <button type="submit" asp-page-handler="clear">CLEAR</button>
+    <button type="button" class="btn btn-primary" onclick="window.location.href='/Admin'">Admin</button>
+
+
+
+
+
+</form>
+
+
+
+
+

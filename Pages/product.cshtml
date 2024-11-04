@@ -1,0 +1,43 @@
+﻿@page
+@model WebApplication1.Pages.productModel
+@{
+}
+
+<form method="post" enctype="multipart/form-data">
+    
+    <div class="form-group">
+        <label asp-for="Product.product_name"></label>
+        <input asp-for="Product.product_name" class="form-control" />
+        <span asp-validation-for="Product.product_name" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="Product.product_quantity"></label>
+        <input asp-for="Product.product_quantity" class="form-control" />
+        <span asp-validation-for="Product.product_quantity" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.product_description"></label>
+        <input asp-for="Product.product_description" class="form-control" />
+        <span asp-validation-for="Product.product_description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.product_price"></label>
+        <input asp-for="Product.product_price" class="form-control" />
+        <span asp-validation-for="Product.product_price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.product_type"></label>
+        <input asp-for="Product.product_type" class="form-control" />
+        <span asp-validation-for="Product.product_type" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.ImageFile">Upload Image</label>
+        <input type="file" asp-for="Product.ImageFile" class="form-control" accept="image/*" />
+        <span asp-validation-for="Product.ImageFile" class="text-danger"></span>
+    </div>
+
+    <input type="hidden" asp-for="Product.product_id" />
+    <input type="submit" value="Save" class="btn btn-primary" />
+</form>
+

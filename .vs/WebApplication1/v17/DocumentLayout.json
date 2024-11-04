@@ -1,0 +1,779 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\admin\\adminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\admin\\adminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\shared\\_adminlayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\shared\\_adminlayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\admin\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\admin\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\editimage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\editimage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241025062709_i5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241025062709_i5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\database\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:database\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\response.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\response.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\response.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\response.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\models\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\models\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\database\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:database\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241024102831_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241024102831_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241024110432_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241024110432_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241024105359_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241024105359_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241024105121_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241024105121_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241025052528_i4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241025052528_i4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241025065634_i6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241025065634_i6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241025044512_i2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241025044512_i2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241025052237_i3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241025052237_i3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241028092308_u2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241028092308_u2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241028072543_u1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241028072543_u1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241028052453_u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241028052453_u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241029111414_u8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241029111414_u8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|c:\\users\\user\\downloads\\asp dot net\\webapplication1\\migrations\\20241029051918_u7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82CE237-390A-4F0D-86C4-8420A5978715}|WebApplication1.csproj|solutionrelative:migrations\\20241029051918_u7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T10:29:16.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adminlogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Admin\\adminlogin.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\adminlogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Admin\\adminlogin.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\adminlogin.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:14:13.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adminlogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Admin\\adminlogin.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\adminlogin.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Admin\\adminlogin.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\adminlogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:14:09.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminLayout.css",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Shared\\_AdminLayout.css",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_AdminLayout.css",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Shared\\_AdminLayout.css",
+              "RelativeToolTip": "Pages\\Shared\\_AdminLayout.css",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvykAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T07:06:40.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditImage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\EditImage.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\EditImage.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\EditImage.cshtml.cs",
+              "RelativeToolTip": "Pages\\EditImage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:13:28.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "product.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\product.cshtml",
+              "RelativeDocumentMoniker": "Pages\\product.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\product.cshtml",
+              "RelativeToolTip": "Pages\\product.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T06:47:57.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "product.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\product.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\product.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\product.cshtml.cs",
+              "RelativeToolTip": "Pages\\product.cshtml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:09:18.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Database\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Database\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Database\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:22:31.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Response.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Response.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Response.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Response.cshtml",
+              "RelativeToolTip": "Pages\\Response.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T06:04:28.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\models\\login.cs",
+              "RelativeDocumentMoniker": "Pages\\models\\login.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\models\\login.cs",
+              "RelativeToolTip": "Pages\\models\\login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:21:24.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\models\\Signup.cs",
+              "RelativeDocumentMoniker": "Pages\\models\\Signup.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\models\\Signup.cs",
+              "RelativeToolTip": "Pages\\models\\Signup.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:48:16.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Admin.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:36:08.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Admin.cshtml",
+              "RelativeToolTip": "Pages\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T10:27:39.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20241029111414_u8.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241029111414_u8.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241029111414_u8.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241029111414_u8.cs",
+              "RelativeToolTip": "Migrations\\20241029111414_u8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:14:15.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\login.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\login.cshtml.cs",
+              "RelativeToolTip": "Pages\\login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:12:29.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:23:44.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T09:00:15.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:20:44.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T04:19:39.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\models\\Edit.cs",
+              "RelativeDocumentMoniker": "Pages\\models\\Edit.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\models\\Edit.cs",
+              "RelativeToolTip": "Pages\\models\\Edit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:44:47.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20241029051918_u7.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241029051918_u7.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241029051918_u7.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241029051918_u7.cs",
+              "RelativeToolTip": "Migrations\\20241029051918_u7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:19:18.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:57:47.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20241028072543_u1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241028072543_u1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241028072543_u1.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241028072543_u1.cs",
+              "RelativeToolTip": "Migrations\\20241028072543_u1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:25:43.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20241028092308_u2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241028092308_u2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241028092308_u2.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241028092308_u2.cs",
+              "RelativeToolTip": "Migrations\\20241028092308_u2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:23:08.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20241028052453_u.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241028052453_u.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241028052453_u.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241028052453_u.cs",
+              "RelativeToolTip": "Migrations\\20241028052453_u.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:24:53.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:58:50.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Response.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Response.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Response.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Response.cshtml.cs",
+              "RelativeToolTip": "Pages\\Response.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:04:34.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T09:26:02.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Database\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Database\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Database\\Entity\\Employee.cs",
+              "RelativeToolTip": "Database\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:07:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241025052528_i4.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241025052528_i4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241025052528_i4.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241025052528_i4.cs",
+              "RelativeToolTip": "Migrations\\20241025052528_i4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:25:28.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241025062709_i5.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241025062709_i5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241025062709_i5.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241025062709_i5.cs",
+              "RelativeToolTip": "Migrations\\20241025062709_i5.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:27:09.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241025065634_i6.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241025065634_i6.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241025065634_i6.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241025065634_i6.cs",
+              "RelativeToolTip": "Migrations\\20241025065634_i6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:56:34.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241025044512_i2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241025044512_i2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241025044512_i2.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241025044512_i2.cs",
+              "RelativeToolTip": "Migrations\\20241025044512_i2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:45:12.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241025052237_i3.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241025052237_i3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241025052237_i3.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241025052237_i3.cs",
+              "RelativeToolTip": "Migrations\\20241025052237_i3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:22:37.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241024110432_Create.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241024110432_Create.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241024110432_Create.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241024110432_Create.cs",
+              "RelativeToolTip": "Migrations\\20241024110432_Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:04:32.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241024105359_Init.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241024105359_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241024105359_Init.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241024105359_Init.cs",
+              "RelativeToolTip": "Migrations\\20241024105359_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:53:59.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241024105121_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241024105121_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241024105121_Initial.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241024105121_Initial.cs",
+              "RelativeToolTip": "Migrations\\20241024105121_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:51:21.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241024102831_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241024102831_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241024102831_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Migrations\\20241024102831_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241024102831_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:28:31.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T09:05:12.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:24:04.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:19:12.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T10:37:34.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-17T09:16:40.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T08:48:07.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:47:54.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:47:53.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\ASP DOT NET\\WebApplication1\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:47:50.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

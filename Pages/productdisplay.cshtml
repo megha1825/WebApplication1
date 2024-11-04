@@ -1,0 +1,71 @@
+﻿@page
+@model WebApplication1.Pages.productdisplayModel
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<div class="container-fluid">
+    <div class="row">
+
+        <nav class="col-md-3 col-lg-2 d-md-block bg-light sidebar">
+            <div class="position-sticky">
+                <h5>Admin Menu</h5>
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link active" asp-page="/product">
+                            Add product
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <main class="col-md-9 ms-sm-auto col-lg-10 px-4">
+            <h2>Product List</h2>
+
+            <div class="row">
+                @if (Model.productlist != null && Model.productlist.Count > 0)
+                {
+                    foreach (var product in Model.productlist)
+                    {
+                        <div class="col-md-4 mb-4">
+                            <div class="card">
+                                <img src="~/@product.ImagePath" alt="@product.product_name" class="card-img-top" style="height: 200px; object-fit: cover;" />
+                                <div class="card-body">
+                                    <h5 class="card-title">@product.product_name</h5>
+                                    <p class="card-text">Description: @product.product_description</p>
+                                    <p class="card-text">Type: @product.product_type</p>
+                                    <p class="card-text">Price: @product.product_price.ToString("C")</p>
+                                    <p class="card-text">Quantity: @product.product_quantity</p>
+                                    <p class="card-text">
+                                        Status:
+                                        @if (product.product_isactive == 1)
+                                        {
+                                            <span class="badge bg-success">Active</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="badge bg-danger">Inactive</span>
+                                        }
+                                        <form method="get" asp-route-id="@product.product_id" asp-page="/EditImage" asp-page-handler="Edit">
+                                            <button type="submit" class="btn btn-light">Edit</button>
+                                        </form>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div class="col-12">
+                        <div class="alert alert-warning" role="alert">
+                            No products available.
+                        </div>
+                    </div>
+                }
+            </div>
+        </main>
+    </div>
+</div>
+
